@@ -9,4 +9,11 @@ git push origin main
 
 
 git checkout -b <--branch name-->  (creating new branch)
-git checkout <--branch name-->
+git checkout <--branch name--> (switching branch)
+
+git branch -d <-branch name-> (deleting branch)
+
+# merging code
+
+git diff <-branch name-> (to compare commits ,branches, files and more)
+git merge <-branch name->
