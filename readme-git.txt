@@ -1,6 +1,8 @@
-applying changes to repo
+#git-init command (for creating new repositories).
 
-1. git add .
-2. git commit
-git remote set-url origin https://github.com/RivYash/Devops-Project.git
-test
+git init
+git remote add origin <link>
+git remote -v (to verify remote)
+git branch (to check branch)
+git branch -m (to rename branch)
+git push origin main
