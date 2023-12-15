@@ -17,3 +17,6 @@ git branch -d <-branch name-> (deleting branch)
 
 git diff <-branch name-> (to compare commits ,branches, files and more)
 git merge <-branch name->
+
+
+git pull origin main (to update the existing branch/repository)
